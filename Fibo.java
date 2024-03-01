@@ -9,6 +9,13 @@ public class Fibo {
         int [] numeros = new int [5];
         String [] nomes = new String [5];
 
+        nomes[0] = "Juliana";
+        nomes[1] = "Miguel";
+
+        System.out.println(nomes[1]);
+
+
+
 
     }
 }
